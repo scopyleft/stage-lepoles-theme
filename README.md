@@ -1,3 +1,7 @@
+# Le journal
+
+https://hackmd.io/oczkF6aEQdSSTGWlBav0qg#
+
 # Maquillage
 
 Un thème Jekyll pour publier des contributions issues de l'éco-système [Daktary](http://daktary.com).
